@@ -1,2 +1,3 @@
-# color-recogniser-web_app
+# A web App based color recogniser
+
 A colour recogniser web application using python
